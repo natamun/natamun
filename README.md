@@ -9,4 +9,4 @@ So here I am at **42**, learning programming the hard way: **peer-to-peer, no te
 - Interests: **game development** and **artificial intelligence** 
 - Goal: become a **skilled software engineer**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natamun&layout=compact&theme=dark)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=natamun)](https://github.com/stats-organization/github-stats-extended)
