@@ -8,3 +8,7 @@ So here I am at **42**, learning programming the hard way: **peer-to-peer, no te
 - Currently working on: **42 core projects** 
 - Interests: **game development** and **artificial intelligence** 
 - Goal: become a **skilled software engineer**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natamun&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natamun&show_icons=true&theme=dark)
