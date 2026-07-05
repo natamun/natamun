@@ -9,4 +9,4 @@ So here I am at **42**, learning programming the hard way: **peer-to-peer, no te
 - Interests: **game development** and **artificial intelligence** 
 - Goal: become a **skilled software engineer**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natamun&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natamun&layout=compact&theme=dark)
