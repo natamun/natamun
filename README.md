@@ -1,6 +1,6 @@
 ## Hi there
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=natamun&langs_count=4&theme=transparent"><img align="right" width="30%" src="https://github-stats-extended.vercel.app/api/top-langs?username=natamun&langs_count=4&theme=transparent" /></a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=natamun&langs_count=4&theme=transparent"><img align="right" width="30%" src="https://github-stats-extended.vercel.app/api/top-langs?username=natamun&langs_count=4&theme=transparent&v=2" /></a>
 
 I'm Natalino, a Computer Science student at [42 Lausanne](https://ira.42lausanne.ch).
 
