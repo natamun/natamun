@@ -5,6 +5,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=natamun&langs_count=4&bg_color=081d30&title_color=ffffff&text_color=278BAE&icon_color=278BAE&border_color=081d30&border_radius=7&v=4" height="200" hspace="5" vspace="5" alt="Top Languages" />
 </div>
 
+<br>
 
 <div align="center">
 After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theory weren't my thing. So here I am at 42, learning programming the hard way: <strong>peer-to-peer, no teachers, just pure code</strong>.
