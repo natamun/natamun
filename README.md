@@ -1,8 +1,8 @@
 ## Hi, I'm Natalino
 
 <div align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/nmunari?1337Badge=off&UM6P=off" height="300" hspace="5" vspace="10" alt="42 Profile" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=natamun&langs_count=4&bg_color=081d30&title_color=ffffff&text_color=278BAE&icon_color=278BAE&border_color=081d30&border_radius=7&v=4" height="300" hspace="5" vspace="10" alt="Top Languages" />
+  <img src="https://badge.mediaplus.ma/darkblue/nmunari?1337Badge=off&UM6P=off" height="290" hspace="5" vspace="10" alt="42 badge" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=natamun&langs_count=4&bg_color=081d30&title_color=ffffff&text_color=278BAE&icon_color=278BAE&border_color=081d30&border_radius=7&v=4" height="290" hspace="5" vspace="10" alt="Top Languages" />
 </div>
 
 
