@@ -16,7 +16,7 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
 <table>
   <!--
   <tr>
-    <td width="150" align="center">
+    <td width="150" align="center" valign="middle">
       <a href="https://github.com/natamun/42-ft_transcendence">
         <img src="./badges/ft_transcendencee.png" width="100" alt="transcendence">
       </a>
@@ -29,7 +29,7 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
   </tr>
   -->
   <tr>
-    <td width="150" align="center">
+    <td width="150" align="center" valign="middle">
       <a href="https://github.com/natamun/42-webserv">
         <img src="./badges/webserve.png" width="100" alt="webserv">
       </a>
@@ -41,7 +41,7 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
     </td>
   </tr>
   <tr>
-    <td width="150" align="center">
+    <td width="150" align="center" valign="middle">
       <a href="https://github.com/natamun/42-inception">
         <img src="./badges/inceptione.png" width="100" alt="inception">
       </a>
@@ -53,7 +53,7 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
     </td>
   </tr>
   <tr>
-    <td width="150" align="center">
+    <td width="150" align="center" valign="middle">
       <a href="https://github.com/natamun/ICRogue">
         <img src="./badges/icrogue.gif" width="100" alt="ICRogue">
       </a>
@@ -66,7 +66,7 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
   </tr>
   <!--
   <tr>
-    <td width="150" align="center">
+    <td width="150" align="center" valign="middle">
       <a href="https://github.com/natamun/42-cpp09">
         <img src="./badges/CPP09.png" width="100" alt="cpp09">
       </a>
@@ -78,7 +78,7 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
     </td>
   </tr>
   <tr>
-    <td width="150" align="center">
+    <td width="150" align="center" valign="middle">
       <a href="https://github.com/natamun/42-cub3d">
         <img src="./badges/cub3de.png" width="100" alt="cub3d">
       </a>
@@ -91,19 +91,19 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
   </tr>
   -->
   <tr>
-    <td width="150" align="center">
+    <td width="150" align="center" valign="middle">
       <a href="https://github.com/natamun/42-minishell">
         <img src="./badges/minishelle.png" width="100" alt="minishell">
       </a>
     </td>
     <td>
       <strong>UNIX Shell</strong><br>
-      Recreated a Bash-like shell from scratch. Built a custom lexer/parser (AST) to handle child processes, pipes, logical operators (&&, ||), subshells, and wildcards.<br>
+      Recreated a Bash-like shell from scratch. Built a custom lexer/parser (AST) to handle child processes, pipes, redirections (&lt;, &lt;&lt;, &gt;, &gt;&gt;), logical operators (&&, ||), subshells, and wildcards.<br>
       <em>Tech: C, AST, POSIX API, System Architecture</em>
     </td>
   </tr>
   <tr>
-    <td width="150" align="center">
+    <td width="150" align="center" valign="middle">
       <a href="https://github.com/natamun/42-philosophers">
         <img src="./badges/philosopherse.png" width="100" alt="philosophers">
       </a>
@@ -115,7 +115,7 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
     </td>
   </tr>
   <tr>
-    <td width="150" align="center">
+    <td width="150" align="center" valign="middle">
       <a href="https://github.com/natamun/qoi-codec">
         <img src="./badges/qoi_logo.webp" width="100" alt="qoi-codec">
       </a>
