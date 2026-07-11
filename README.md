@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="./badges/42-badge.svg" height="200" hspace="5" alt="42 badge" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=natamun&langs_count=4&bg_color=081d30&title_color=ffffff&text_color=278BAE&icon_color=278BAE&border_color=278BAE&border_radius=7&v=4" height="200" hspace="5" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=natamun&langs_count=4&bg_color=081d30&title_color=ffffff&text_color=278BAE&icon_color=278BAE&border_color=278BAE&border_radius=7&v=5" height="200" hspace="5" alt="Top Languages" />
 </div>
 
 <br>
