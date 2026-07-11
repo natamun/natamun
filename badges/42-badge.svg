@@ -1,0 +1,24 @@
+<svg width="450" height="275" viewBox="0 0 450 275" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Ubuntu, sans-serif">
+  <rect x="0.5" y="0.5" width="449" height="274" rx="7.9" fill="#081d30" stroke="#278BAE" />
+  <text x="24" y="40" font-size="18" font-weight="700" fill="#ffffff">nmunari&#x27;s Profile</text>
+
+  <rect x="23" y="67" width="58" height="58" rx="9" fill="#384857" />
+
+  <text x="96" y="80" font-size="13" font-weight="700" fill="#ffffff">name:</text>
+  <text x="162" y="80" font-size="13" fill="#278BAE">Natalino Munari</text>
+  <text x="96" y="102" font-size="13" font-weight="700" fill="#ffffff">email:</text>
+  <text x="162" y="102" font-size="13" fill="#278BAE">nmunari@student.42lausanne.ch</text>
+  <text x="96" y="124" font-size="13" font-weight="700" fill="#ffffff">cursus:</text>
+  <text x="162" y="124" font-size="13" fill="#278BAE">42cursus</text>
+  <text x="96" y="146" font-size="13" font-weight="700" fill="#ffffff">grade:</text>
+  <text x="162" y="146" font-size="13" fill="#278BAE">Cadet</text>
+
+  <rect x="24" y="172" width="402" height="34" rx="17" fill="#384857" />
+  <rect x="24" y="172" width="64" height="34" rx="17" fill="#278BAE" />
+  <text x="225" y="194" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">level 5 - 16%</text>
+
+  <rect x="24" y="224" width="70" height="24" rx="5" fill="#384857" stroke="#278BAE" />
+  <text x="59" y="240" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">STUDENT</text>
+
+  <text x="426" y="240" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">42 NETWORK</text>
+</svg>
