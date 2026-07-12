@@ -17,12 +17,11 @@ ACCENT_COLOR = "#278BAE"
 TRACK_COLOR = "#384857"
 STUDENT_BADGE_BG = "#1E5D75"
 BORDER_COLOR = "#278BAE"
-CARD_RADIUS = "7px"  # matches border_radius=7 on the sibling Top Languages card
+CARD_RADIUS = "7px"
 
-# Mirrors the markup produced by badge.mediaplus.ma: an outer <svg> hosting a
-# <foreignObject> full of styled HTML, plus an inline "42" logo SVG. Dynamic
-# values are swapped in via plain string tokens (not str.format) because the
-# embedded CSS already uses '{' '}' for its keyframes.
+# Mirrors the markup produced by badge.mediaplus.ma (theme "darkblue"),
+# whose source is the open-source project oakoudad/badge42:
+# https://github.com/oakoudad/badge42
 TEMPLATE = """<svg viewBox="0 0 450 275" width="450" height="275" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%"><style>.slideUp{animation-duration:1s;animation-name:slideUp}.slideDown{animation-duration:1s;animation-name:slideDown}.flipInX{animation-duration:1s;animation-name:flipInX}@keyframes slideUp{from{opacity:0;transform:translateY(20px)}25%{opacity:0}to{opacity:1;transform:translateY(0)}}@keyframes slideDown{from{opacity:0;transform:translateY(-20px)}25%{opacity:0}to{opacity:1;transform:translateY(0)}}@keyframes flipInX{from{transform:perspective(400px) rotate3d(1,0,0,90deg);animation-timing-function:ease-in;opacity:0}40%{transform:perspective(400px) rotate3d(1,0,0,-20deg);animation-timing-function:ease-in}60%{transform:perspective(400px) rotate3d(1,0,0,10deg);opacity:1}80%{transform:perspective(400px) rotate3d(1,0,0,-5deg)}to{transform:perspective(400px)}}</style><svg xmlns="http://www.w3.org/1999/xhtml"><div style="font-family:sans-serif;font-weight:bold;color:#ffffff;box-sizing:border-box;padding:20px;width:450px;height:275px;border-radius:@@CARD_RADIUS@@;border:1px solid @@BORDER_COLOR@@;background-color:@@BG_COLOR@@;">
 <div style="margin-bottom:20px"><h2 class="slideDown" style="margin:0;font-size:18px"><span>@@LOGIN@@</span>&#x27;s Profile</h2></div>
 <div class="slideDown" style="margin-bottom:20px;display:flex;align-items:center"><div style="margin-right:20px;height:75px;width:75px;border-radius:10px;background:#f0f0f0;@@AVATAR_STYLE@@"></div><table style="font-size:16px"><tr><td style="padding-right:10px">name:</td><td style="color:@@ACCENT_COLOR@@">@@FULL_NAME@@</td></tr><tr><td style="padding-right:10px">email:</td><td style="color:@@ACCENT_COLOR@@">@@EMAIL@@</td></tr><tr><td style="padding-right:10px">cursus:</td><td style="color:@@ACCENT_COLOR@@">@@CURSUS@@</td></tr><tr><td style="padding-right:10px">grade:</td><td style="color:@@ACCENT_COLOR@@">@@GRADE@@</td></tr></table></div>
