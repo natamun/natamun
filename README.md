@@ -36,7 +36,7 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
     </td>
     <td>
       <strong>HTTP Server</strong><br>
-      Built a fully functional, non-blocking HTTP/1.0 server in C++98 with a partner, following a CONTRIBUTING.md (feature branches, conventional commits, mandatory PR reviews). Managed socket multiplexing (poll) and CGI execution.<br>
+      Built a fully functional, non-blocking HTTP/1.0 server in C++98, following structured contributing (feature branches, conventional commits, mandatory PR reviews). Managed socket multiplexing (poll) and CGI execution.<br>
       <em>Tech: C++, Sockets, HTTP Protocol, Network</em>
     </td>
   </tr>
@@ -47,7 +47,7 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
       </a>
     </td>
     <td>
-      <strong>Infrastructure & DevOps</strong><br>
+      <strong>Docker Infrastructure</strong><br>
       Set up a complete corporate infrastructure using Docker. Built custom images for Nginx, WordPress, and MariaDB running in a dedicated Docker network.<br>
       <em>Tech: Docker, Docker-compose, Linux, Bash</em>
     </td>
@@ -59,9 +59,9 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
       </a>
     </td>
     <td>
-      <strong>Roguelike Game Engine</strong><br>
+      <strong>Roguelike Game</strong><br>
       Built a Java roguelike dungeon crawler on a 2D grid engine: procedural level generation, enemies, weapons, and an encapsulated OOP architecture.<br>
-      <em>Tech: Java, OOP, Game Engine, Procedural Generation</em>
+      <em>Tech: Java, OOP, Procedural Generation</em>
     </td>
   </tr>
   <!--
@@ -99,7 +99,7 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
     <td>
       <strong>UNIX Shell</strong><br>
       Recreated a Bash-like shell from scratch. Built a custom lexer/parser (AST) to handle child processes, pipes, redirections (&lt;, &lt;&lt;, &gt;, &gt;&gt;), logical operators (&&, ||), subshells, and wildcards.<br>
-      <em>Tech: C, AST, POSIX API, System Architecture</em>
+      <em>Tech: C, AST, POSIX API, Pipes & Redirections</em>
     </td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
     <td>
       <strong>Image Codec (QOI format)</strong><br>
       Built a byte-level encoder/decoder for the QOI lossless image format, working with bitwise operators, modular arithmetic, and hash tables.<br>
-      <em>Tech: Java, Bitwise Operations, Hash Tables, OOP</em>
+      <em>Tech: Java, Bitwise Operations, Hash Tables</em>
     </td>
   </tr>
 </table>
