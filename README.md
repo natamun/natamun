@@ -1,9 +1,4 @@
 ## Hi, I'm Natalino
-
-<div align="center">
-  <img src="./badges/42-badge.svg" height="200" hspace="5" alt="42 badge" />
-</div>
-
 <br>
 
 <div align="center">
