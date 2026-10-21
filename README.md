@@ -2,26 +2,24 @@
 <br>
 
 <div align="center">
-After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theory weren't my thing. So here I am at 42, learning programming the hard way: <strong>peer-to-peer, no teachers, just pure code</strong>.
+Software engineering student at 42 Lausanne. I started out at EPFL and HEIA, then switched to 42's project-based model, where I learn by building: from a Unix shell and an HTTP server in C/C++ to leading a full-stack web app in production.
 </div>
 
 ### Key Projects
 
 <table>
-  <!--
   <tr>
     <td width="150" align="center">
-      <a href="https://github.com/natamun/42-ft_transcendence">
-        <img src="./badges/ft_transcendencee.png" width="100" alt="transcendence">
+      <a href="https://github.com/natamun/catchmeal">
+        <img src="./badges/catchmeal.svg" width="100" alt="CatCHMeal">
       </a>
     </td>
     <td>
-      <strong>TODO</strong><br>
-      todo<br>
-      <em>Tech: todo</em>
+      <strong>Full-Stack Nutrition App</strong><br>
+      Led a 5-person team to build and ship <a href="https://catchmeal.ch">CatCHMeal</a>, a nutrition tracker live in production. Defined the architecture, reviewed every module and owned the UI/UX, building the shared components and unifying the whole interface. Also built meal logging and a camera barcode scanner end to end, from React to NestJS.<br>
+      <em>Tech: React, TypeScript, NestJS, PostgreSQL, Docker</em>
     </td>
   </tr>
-  -->
   <tr>
     <td width="150" align="center">
       <a href="https://github.com/natamun/42-webserv">
@@ -30,60 +28,10 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
     </td>
     <td>
       <strong>HTTP Server</strong><br>
-      Built a fully functional, non-blocking HTTP/1.0 server in C++98, following structured contributing (feature branches, conventional commits, mandatory PR reviews). Managed socket multiplexing (poll) and CGI execution.<br>
+      Built a fully functional, non-blocking HTTP/1.0 server in C++98, following a structured team workflow (feature branches, conventional commits, mandatory PR reviews). Managed socket multiplexing (poll) and CGI execution.<br>
       <em>Tech: C++, Sockets, HTTP Protocol, Network</em>
     </td>
   </tr>
-  <tr>
-    <td width="150" align="center">
-      <a href="https://github.com/natamun/42-inception">
-        <img src="./badges/inceptione.png" width="100" alt="inception">
-      </a>
-    </td>
-    <td>
-      <strong>Docker Infrastructure</strong><br>
-      Set up a complete corporate infrastructure using Docker. Built custom images for Nginx, WordPress, and MariaDB running in a dedicated Docker network.<br>
-      <em>Tech: Docker, Docker-compose, Linux, Bash</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="150" align="center">
-      <a href="https://github.com/natamun/ICRogue">
-        <img src="./badges/icrogue.gif" width="100" alt="ICRogue">
-      </a>
-    </td>
-    <td>
-      <strong>Roguelike Game</strong><br>
-      Built a Java roguelike dungeon crawler on a 2D grid engine: procedural level generation, enemies, weapons, and an encapsulated OOP architecture.<br>
-      <em>Tech: Java, OOP, Procedural Generation</em>
-    </td>
-  </tr>
-  <!--
-  <tr>
-    <td width="150" align="center">
-      <a href="https://github.com/natamun/42-cpp09">
-        <img src="./badges/CPP09.png" width="100" alt="cpp09">
-      </a>
-    </td>
-    <td>
-      <strong>Advanced STL & Algorithmics</strong><br>
-      Leveraged C++98 STL for relational data mapping (time-series analysis) and LIFO stack-based parsing. Implemented the Ford-Johnson sort to benchmark time complexity across sequence containers.<br>
-      <em>Tech: C++, STL (Map, Stack, Vector), Time Complexity</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="150" align="center">
-      <a href="https://github.com/natamun/42-cub3d">
-        <img src="./badges/cub3de.png" width="100" alt="cub3d">
-      </a>
-    </td>
-    <td>
-      <strong>3D Raycasting Engine</strong><br>
-      Created a 3D first-person maze game inspired by Wolfenstein 3D. Handled rigorous map parsing and validation, alongside raycasting math and real-time rendering.<br>
-      <em>Tech: C, Map Parsing, Raycasting, Mathematics</em>
-    </td>
-  </tr>
-  -->
   <tr>
     <td width="150" align="center">
       <a href="https://github.com/natamun/42-minishell">
@@ -98,14 +46,14 @@ After trying the "traditional path" (EPFL, HEIA)... I realized lectures and theo
   </tr>
   <tr>
     <td width="150" align="center">
-      <a href="https://github.com/natamun/42-philosophers">
-        <img src="./badges/philosopherse.png" width="100" alt="philosophers">
+      <a href="https://github.com/natamun/ICRogue">
+        <img src="./badges/icrogue.gif" width="100" alt="ICRogue">
       </a>
     </td>
     <td>
-      <strong>Concurrency & Threads</strong><br>
-      Solved the dining philosophers problem. Managed concurrent threads and prevented data races and deadlocks using mutexes.<br>
-      <em>Tech: C, Multithreading, Synchronization</em>
+      <strong>Roguelike Game</strong><br>
+      Built a Java roguelike dungeon crawler on a 2D grid engine: procedural level generation, enemies, weapons, and an encapsulated OOP architecture.<br>
+      <em>Tech: Java, OOP, Procedural Generation</em>
     </td>
   </tr>
   <tr>
