@@ -16,7 +16,7 @@ Software engineering student at 42 Lausanne. I started out at EPFL and HEIA, the
     </td>
     <td>
       <strong>Full-Stack Nutrition App</strong><br>
-      Led a 5-person team to build and ship <a href="https://catchmeal.ch">CatCHMeal</a>, a nutrition tracker live in production. Defined the architecture, reviewed every module and owned the UI/UX, building the shared components and unifying the whole interface. Also built meal logging and a camera barcode scanner end to end, from React to NestJS.<br>
+      Led a 5-person team to build and ship <a href="https://catchmeal.ch">CatCHMeal</a>, a nutrition tracker live in production. Defined the architecture, reviewed every module and owned the UI/UX, building the shared components and unifying the whole interface. Also built meal logging and barcode food lookup via Open Food Facts end to end, from React to NestJS.<br>
       <em>Tech: React, TypeScript, NestJS, PostgreSQL, Docker</em>
     </td>
   </tr>
